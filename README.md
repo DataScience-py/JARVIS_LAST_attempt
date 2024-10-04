@@ -15,14 +15,14 @@ Jarvis is a customizable voice-activated assistant designed for efficient task h
 
 ## Implementation Status
 
-| **Feature**                   | **Implemented**  |
-|-------------------------------|------------------|
-| Wake Word Detection           | No               |
-| Speech Recognition            | No               |
-| Command Parsing               | No               |
-| Text-to-Speech                | No               |
-| GUI                           | No               |
-| Logging                       | Yes              |
+| **Feature**                   | **Implemented** |
+|-------------------------------|-----------------|
+| Wake Word Detection           | No              |
+| Speech Recognition            | No              |
+| Command Parsing               | No              |
+| Text-to-Speech                | No              |
+| GUI                           | No              |
+| Logging                       | NO              |
 
 ## Components
 
