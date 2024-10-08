@@ -68,7 +68,7 @@ Jarvis is a customizable voice-activated assistant designed for efficient task h
 
 ## Clone the Repository
 ```bash
-git clone https://github.com/yourusername/jarvis-assistant.git
+git clone https://github.com/DataScience-py/JARVIS_LAST_attempt
 cd jarvis-assistant
 ```
 
@@ -77,7 +77,6 @@ Configure the settings: Edit the configuration file to choose your preferred lib
 Start the assistant: Run the main script.
 ```bash
 python main.py
-
 ```
 
 
